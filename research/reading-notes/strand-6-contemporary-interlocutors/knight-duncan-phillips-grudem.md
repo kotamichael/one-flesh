@@ -44,10 +44,40 @@ Gives the contemporary bibliography real academic range: Duncan is the best-atte
 
 ## Open questions / follow-up needed
 
-- Read Knight's 1977/1985 book directly for his treatment of 1 Cor 11:11-12 and 1 Pet 3, rather than relying on secondary silence as evidence of absence.
-- Re-verify or correct the *Women, Ministry, and the Gospel* citation before it appears in any draft.
-- Read *The Masculine Mandate* directly for its actual treatment of the wife's role, rather than relying on this pass's negative research-coverage finding.
+- Read Knight's 1977/1985 book directly for his treatment of 1 Cor 11:11-12 and 1 Pet 3. (Partially closed 2026-08-08 — see below: a Knight-authored essay covering the same ground has now been located and quoted directly, though the book itself remains unread.)
+- ~~Re-verify or correct the *Women, Ministry, and the Gospel* citation before it appears in any draft.~~ Closed 2026-08-08 — drop the citation; see below.
+- Read *The Masculine Mandate* directly for its actual treatment of the wife's role. (Re-checked 2026-08-08 via three independent reviews — still no material found beyond what's below; treat as a real limit of this book's scope, not necessarily of Phillips's corpus — see new lead on his Ephesians commentary.)
+
+## Follow-up pass, 2026-08-08
+
+### Knight on 1 Cor 11:11-12 and 1 Pet 3 — CONFIRMED via a Knight-authored primary text
+
+Located a full-text essay by George W. Knight III himself, "The Role of Women in the Church," reproduced at bible-researcher.com/knight1.html. This is not the 1977/1985 book itself, but it is Knight's own words on the identical argument (the essay's biographical note at the end matches Knight's academic credentials), and it directly answers the question the first pass couldn't: does Knight develop anything positive on the wife's own dignity, beyond role-subordination?
+
+CONFIRMED direct quotes:
+
+> "They were created essentially equal: as holy bearers of God's image before the fall, after it as sinners equally in need of redemption, and... as spiritually equal receivers of God's salvation." — Knight, "The Role of Women in the Church"
+
+> "Nothing in the Apostles' teaching indicates that men are intrinsically superior to women, even in marriage or the life of the church." — same
+
+> "However, in the Lord, neither is woman independent of man, nor is man independent of woman" [1 Cor 11:11-12] — same
+
+On 1 Pet 3: "Peter speaks... teaching that the wife is an heir of the gracious gift of life with her husband, or a fellow heir of the grace of life" — Knight cites this as 1 Peter 3:7 in the section heading, but the in-text citation on the page itself reads "(I Peter 5:7)," an apparent transcription error (reproduced consistently across two independent fetches of the same page, so it is a feature of the source text, not this pass's error) — **verify chapter/verse directly against Knight's own text before quoting**, and flag/correct if citing.
+
+Immediately following, on the husband's side: "Husbands are not called to require their wives to submit to them, but must rather themselves submit to God, and graciously, lovingly, and tenderly lead and guide their wives and families" (1 Pet 3:7; Eph 5:23-33); "Husbands are to be neither harsh nor bitter" (Col 3:19).
+
+**Honest assessment, not padding**: this closes the "found nothing at all" gap — Knight does affirm essential equality, non-superiority, and the 1 Cor 11:11-12 mutuality clause in his own words, more than the first pass located. But it does not amount to developed material on the wife's own competence, initiative, or calling in the way Duncan's Prov 31 material or the wife-specific texts (Titus 2:3-5, 1 Pet 3:1-6) invite — Knight's essay stays at the level of "essentially equal in being, distinct in role," not "here is what she brings/does." The research-coverage gap on Knight's positive material for the wife's *active* side (as opposed to her equal standing) is narrowed but not closed; the 1977/1985 book itself is still unread.
+
+### Phillips, *The Masculine Mandate* — re-checked, gap confirmed as a scope limit
+
+Re-checked three independent reviews (9Marks/Jonathan Leeman, Themelios/Gospel Coalition, and a personal-blog review) specifically for any quoted material on the wife's own competence/gifts/initiative beyond what the first pass found. None surfaced anything new. The three reviews' quoted excerpts remain husband-facing: "he typically initiates and always leads... the wife's opinion is vitally important, and a godly couple should be a close-knit team"; she is "a suitable helper who is equal in worth as the man, yet she is different"; "[she] is good for our physical, emotional, spiritual, and sexual well-being."
+
+UNVERIFIED (honestly, not padded): still no developed wife-competence material located in *The Masculine Mandate* specifically. But this may be a scope limit of the book, not a balance failure by Phillips generally — it is explicitly a book addressed to men about being a man (work, fatherhood, friendship, marriage), not a marriage-roles treatise. **New lead for a future pass**: Phillips has written a full-length *Ephesians* commentary (*Ephesians: A Mentor Expository Commentary*, Christian Focus, 2016) and a two-volume *Genesis* Reformed Expository Commentary (P&R, 2023) — both would engage Eph 5:22-33 and Gen 2's "helper" language directly and at much greater length than a book written to men only. Neither has been checked by any pass so far; either is a far more promising primary source for Phillips's treatment of the wife's own role than *The Masculine Mandate*.
+
+### *Women, Ministry, and the Gospel* (Wellum/Chapell/Phillips) — CLOSED: drop the citation
+
+Second independent search pass (variant title searches, author-combination searches, cross-checking Phillips's/Wellum's/Chapell's full bibliographies and the "Designed for Joy" [Strachan & Parnell eds., Crossway 2015] contributor list, which also does not include any of the three) still finds no book under this or a plausibly similar title with this editor combination. The only real match for the title fragment remains *Women, Ministry and the Gospel: Exploring New Paradigms* (eds. Mark Husbands & Timothy Larsen, IVP, 2007) — confirmed again to have no connection to Wellum, Chapell, or Phillips. **Recommendation: drop this citation from the bibliography entirely rather than continue re-verifying it** — two independent passes have now failed to locate it, which is itself the answer.
 
 ## Confidence / verification status
 
-CONFIRMED: bibliographic facts and direct quotes for Knight, Duncan; Grudem's non-Presbyterian identity. WELL-ATTESTED (secondary sources, primary text not independently cross-checked): Phillips's stated positions. UNVERIFIED: the Wellum/Chapell co-edited title as given.
+CONFIRMED: bibliographic facts and direct quotes for Knight (essay, 2026-08-08 pass), Duncan; Grudem's non-Presbyterian identity. WELL-ATTESTED (secondary sources, primary text not independently cross-checked): Phillips's stated positions in *The Masculine Mandate*, re-confirmed as the limit of available evidence 2026-08-08. CLOSED/RESOLVED: the Wellum/Chapell co-edited title does not exist under this description — drop it, do not mark UNVERIFIED-pending-recheck any further.

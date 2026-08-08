@@ -10,9 +10,13 @@
 
 WELL-ATTESTED/CONFIRMED: a dogmatic/typological exposition of Eph 5:22-33, not a household manual — the outlier in genre among this group. Grounds headship in Genesis 2 (Eve's creation as helper), then reads Eph 5 as elevating that creational pattern into Christology: "For our entire salvation consists in this spiritual and divine marriage." Reads the wife's helper-role typologically — as the church helps Christ "by begetting and raising Christ's children." No "weaker vessel" language or Prov 31 material located. UNVERIFIED whether Zanchi treats 1 Cor 11 or Col 3:18-19 at length.
 
-## 2. Thomas Cartwright — largely UNVERIFIED for this topic
+## 2. Thomas Cartwright — Proverbs 31 commentary now located and read
 
-No dedicated household-duties treatise found (confirmed via Chilton Powell's standard scholarly survey of the genre, which mentions Cartwright only re: church-government controversy). What is confirmed is narrower: his divorce/remarriage casuistry against Whitgift (innocent party in proven adultery may remarry), and a Latin Proverbs commentary (1617) that would necessarily include Prov 31 but wasn't accessible this pass — flagged as the single most promising unexplored lead. Treat Cartwright as a contextual/ecclesiological figure for now, not a headship-exegesis source.
+No dedicated household-duties treatise exists (confirmed via Chilton Powell's standard scholarly survey of the genre, which mentions Cartwright only re: church-government controversy) — that finding stands. But the promising lead flagged in the first pass has now been closed: *Commentarii succincti et dilucidi in Proverbia Salomonis* — accessed via a 1632 Amsterdam edition (the referenced 1617 first edition itself wasn't digitized; treat quotes as "the commentary, per the earliest accessible edition" pending confirmation the text is unchanged from 1617).
+
+CONFIRMED (my own working translation from 17th-c. scholarly Latin — flag for independent verification by a Latin reader before quoting as settled): Cartwright's rubric for the whole chapter frames Prov 31:10-31 as depicting "the virtues of a **vigorous/capable wife**" (*uxoris strenuae*), not praise-by-contrast with vice. On v.11 ("the heart of her husband doth safely trust in her"), he makes it explicitly **mutual**, not one-sided: it is "the husband's virtue not to labor under jealous suspicion of his wife," paired immediately with her corresponding duty of manifest chastity. On vv.28-31, he draws an explicit **husband's duty** out of the wife's praise: to "deal generously with her in food and clothing... and see that children and servants pursue her with particular honor and reverence" — i.e., Prov 31 grounds a reciprocal husbandly obligation, not just admiration of feminine domesticity in isolation.
+
+**Genuinely positive wife-content, and genuinely still UNVERIFIED on headship-grounds**: Prov 31 doesn't reach back to Gen 1-3, so this text says nothing about Cartwright's creation-vs-fall position — that remains unaddressed by any source found. Cartwright stays a contextual/ecclesiological figure for the headship question specifically, but is no longer evidentially thin on the wife's-competence question.
 
 ## 3. William Perkins — *Christian Oeconomie* (1609, posthumous)
 
@@ -30,7 +34,11 @@ CONFIRMED, extensive direct quotes (modern critical edition: *Building a Godly H
 
 "Weaker vessel" (1 Pet 3:7) confirmed via secondary citation, used to argue husbandly forbearance, invoking Abraham/Sarah as the model.
 
-Creation vs. Fall: Gouge visibly wrestles with the fall-objection to a wife's subjection ("That was a punishment inflicted on her for her transgression?") as a live question — his full resolution wasn't fully recoverable this pass (large-file truncation). Flagged for follow-up.
+**Creation vs. Fall — Gouge's full resolution, now recovered (Treatise I, via Chapel Library's transcription):**
+
+> "**Object.** That was a punishment inflicted on her for her transgression? **Answ.** And a law too, for trial of her obedience... Besides, we cannot but think that the woman was made before the fall, that the man might rule over her."
+
+Gouge holds **both** grounds together rather than choosing one, and his resolution has three distinct moves: (1) Gen 3:16 is punishment *and* an ongoing normative law ("for trial of her obedience"), not merely a consequence with no continuing force; (2) a creation-order argument stated as inference from narrative sequence — "the woman was made before the fall, that the man might rule over her," which he backs further with Gen 2:18 and 1 Cor 11:7-8; (3) a separate, fall-specific aggravating argument: "good reason it is that she who first drew man into sin, should be now subject to him, lest by the like womanish weakness she fall again." The creation-order argument does the heavier structural lifting ("we cannot but think..."); the fall-argument sits alongside it as a supplementary reason, not a replacement. This puts Gouge closer to Richard Steele's explicit "both together" position than "visibly wrestling" suggested — he resolves the tension, just more tentatively than Steele's confident proof-text stacking. Gouge follows this with six enumerated proofs for husbandly headship (Rom 13:1's ordained power; "nature" itself; titles like Lord/Master/Head; the Eph 5:23 Christ-Church typology; Gen 2:18; 1 Cor 11:7's head-covering) — his fullest single statement of the creation-grounded case.
 
 ## 5. Robert Cleaver & John Dod — *A Godly Form of Household Government* (1598)
 
@@ -38,7 +46,11 @@ CONFIRMED, direct quotes. Notably the most explicitly **fall-grounded** of this 
 
 ## 6. Richard Baxter — *A Christian Directory* (1673)
 
-CONFIRMED but exegetically thinner in the material reached — a real, flagged research gap, not evidence of absence (EEBO 403 blocked full access to the relevant pages). Opens with symmetrical framing: "the first duty of husbands is to love their wives [and wives their husbands]" rather than leading with differentiated authority language. Leading emphasis is *mutual spiritual edification* — helping each other "in the knowledge and worship and obedience of God" — more than scholastic proof-texting of headship. Wife's duty stated as "voluntary subjection... God appointed them their heads," with wives to "learn from their husbands as appointed teachers." Follow-up needed on his specific handling of Eph 5:22-24 and 1 Pet 3:7.
+CONFIRMED. Opens with symmetrical framing: "the first duty of husbands is to love their wives [and wives their husbands]" rather than leading with differentiated authority language. Leading emphasis in Chapters VII-IX ("Mutual Duties," "Special Duties of Husbands," "Special Duties of Wives") is *mutual spiritual edification* — that characterization from the first pass stands for those specific chapters.
+
+**Follow-up pass, 2026-08-08 — the Eph 5/1 Pet 3 gap closed, in a different location than expected.** Baxter does cite both texts verbatim, not in the household-duties chapters but earlier in the same volume, in his argument that family worship is part of God's solemn worship: "'Wives must submit themselves to their husbands as unto the Lord; and be subject to them, as the church is to Christ'" (Eph 5:22,24); "Arg. VI. 1 Pet. 3:7. 'Likewise ye husbands dwell with them (your wives) according to knowledge;' and Eph. 5:25,26. 'Love your wives as Christ loved the church...'"; "Arg. XIII. From 1 Pet. 3:7... 'giving honour to the wife as to the **weaker vessel**, and as being heirs together of the grace of life, that your prayers be not hindered.'" "Weaker vessel" also appears inside Ch. VIII itself, on the *manner* of a husband's duties: "in conjugal love, and tenderness, as over one that is tender, and the weaker vessel." **Revise the first pass's framing**: Baxter isn't avoiding these texts in favor of pure mutuality-language — he treats them as load-bearing proof-texts, just distributed across the *Directory*'s family-worship argument rather than concentrated in the household-duties chapters specifically.
+
+**Positive wife-content, Ch. IX** ("Special Duties of Wives"): Baxter explicitly builds in space for a wife's better judgment even within a subjection frame: "you must **assist them with your better understanding**, in a submissive, and not a ruling, masterly way... A servant that hath a foolish master may help him without becoming master." A distinct route to the same underlying move Cleaver/Dod make with Abigail — real competence acknowledged, formally subordinated in manner, not denied in substance.
 
 ## 7. Daniel Rogers — *Matrimoniall Honour* (1642)
 
@@ -60,11 +72,10 @@ Content: holds creation-order and fall-confirmation together most explicitly and
 
 ## Open questions / follow-up needed
 
-- Cartwright's 1617 Latin Proverbs commentary (direct access needed).
-- Gouge's full resolution of the creation/fall tension re: Gen 3:16 (large-file truncation blocked full retrieval).
-- Baxter's specific handling of Eph 5:22-24 and 1 Pet 3:7 (EEBO 403 blocked access).
-- Confirm/correct the Richard Steele authorship dates on apuritansmind.com before any draft cites that page.
+All four items previously flagged here are now closed (2026-08-08 follow-up pass): Cartwright's Proverbs commentary located and read; Gouge's Gen 3:16 resolution recovered in full; Baxter's Eph 5/1 Pet 3 citations located (in the family-worship argument rather than the household-duties chapters); the Richard Steele apuritansmind.com date error reconfirmed still live as of this check — correct citation is 1629-1692, not the page's stated 1672-1729.
+
+- John Angell James (separate file, `john-angell-james.md`) has also now been fully researched — see that file directly.
 
 ## Confidence / verification status
 
-CONFIRMED with direct quotes: Perkins, Gouge, Cleaver & Dod, Rogers, Richard Steele. WELL-ATTESTED/partially CONFIRMED: Zanchi, Baxter. UNVERIFIED: Cartwright's marriage-roles content specifically (negative finding, not merely unchecked).
+CONFIRMED with direct quotes: Perkins, Gouge (including his full Gen 3:16 resolution), Cleaver & Dod, Rogers, Richard Steele, Baxter (Eph 5/1 Pet 3 citations), Cartwright (Prov 31 commentary, working translation flagged for independent Latin verification). WELL-ATTESTED/partially CONFIRMED: Zanchi.
