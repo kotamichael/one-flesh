@@ -6,11 +6,7 @@
 
 **Note:** this pass explicitly asked for the wife's-side content with the same weight as the husband's side, per the project's standing discipline. The results below are notably better-balanced than the strand-6 contemporary material — several of these figures (Gouge, Richard Steele, Perkins) have real, concrete, positive content on a wife's own competence and authority, not just "she submits." Preserve that balance in any later draft.
 
-## 1. Girolamo Zanchi — *De Spirituali... Connubio* (1591; ET *The Spiritual Marriage between Christ and His Church*, RHB 2021)
-
-WELL-ATTESTED/CONFIRMED: a dogmatic/typological exposition of Eph 5:22-33, not a household manual — the outlier in genre among this group. Grounds headship in Genesis 2 (Eve's creation as helper), then reads Eph 5 as elevating that creational pattern into Christology: "For our entire salvation consists in this spiritual and divine marriage." Reads the wife's helper-role typologically — as the church helps Christ "by begetting and raising Christ's children." No "weaker vessel" language or Prov 31 material located. UNVERIFIED whether Zanchi treats 1 Cor 11 or Col 3:18-19 at length.
-
-## 2. Thomas Cartwright — Proverbs 31 commentary now located and read
+## 1. Thomas Cartwright — Proverbs 31 commentary now located and read
 
 No dedicated household-duties treatise exists (confirmed via Chilton Powell's standard scholarly survey of the genre, which mentions Cartwright only re: church-government controversy) — that finding stands. But the promising lead flagged in the first pass has now been closed: *Commentarii succincti et dilucidi in Proverbia Salomonis* — accessed via a 1632 Amsterdam edition (the referenced 1617 first edition itself wasn't digitized; treat quotes as "the commentary, per the earliest accessible edition" pending confirmation the text is unchanged from 1617).
 
@@ -20,7 +16,7 @@ CONFIRMED (my own working translation from 17th-c. scholarly Latin — flag for 
 
 ## 3. William Perkins — *Christian Oeconomie* (1609, posthumous)
 
-CONFIRMED, direct quotes. Definitional move: marriage is a relation where one is "higher, and beareth rule," the other "lower, and yieldeth subjection" — stated as definitional before any fall-argument. Grounds this in creation/sex-distinction via 1 Cor 11:7 ("the male is man of a superior sex... the female is woman of an inferior sex, fit to conceive and bear children"), not primarily the Fall. Restrains headship explicitly: "though the husband be the wife's head, yet it seemeth he hath no power nor liberty granted him" to be cruel. **Positive wife-content**: extended direct use of Prov 31 as the wife's *proper* domestic industry and competence, not decorative praise — "the heart of her husband trusteth her... she seeketh wool and flax, and laboureth cheerfully." Frames the household as "the school wherein the first principles... of government and subjection are learned" (the classic Puritan "little commonwealth" move). "Weaker vessel" phrasing not confirmed in the sections reached (large-file truncation, not necessarily absent).
+CONFIRMED, direct quotes. Definitional move: marriage is a relation where one is "higher, and beareth rule," the other "lower, and yieldeth subjection" — stated as definitional before any fall-argument. Grounds this in creation/sex-distinction via 1 Cor 11:7 ("the male is man of a superior sex... the female is woman of an inferior sex, fit to conceive and bear children"), not primarily the Fall. Restrains headship explicitly: "though the husband be the wife's head, yet it seemeth he hath no power nor liberty granted him" to be cruel. **Positive wife-content**: extended direct use of Prov 31 as the wife's *proper* domestic industry and competence, not decorative praise — "the heart of her husband trusteth her... she seeketh wool and flax, and laboureth cheerfully." Frames the household as "the school wherein the first principles... of government and subjection are learned" (the classic Puritan "little commonwealth" move). "Weaker vessel" phrasing not confirmed in the sections reached (large-file truncation, not necessarily absent). **2026-08-14: project owner has purchased a physical copy of *Christian Oeconomie* — pending his direct read to close this, not an open agent task.**
 
 ## 4. William Gouge — *Of Domesticall Duties* (1622) — the anchor text of this strand
 

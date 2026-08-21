@@ -42,6 +42,20 @@ CONFIRMED — the single most systematic, dedicated marriage-roles treatise of t
 
 **Palmer's creation/fall formulation is precise and differs substantively from Dabney's**: "Were human nature only in its original and normal state, the two [wills] would move together without friction or jar... But in its fallen estate, it must be controlled by positive law, 'added because of the transgression.'... The collision of will, to which sin now exposes her, is obviated by positive statute, **vesting the supremacy where it existed before by the appointment of nature**." I.e., Palmer holds headship/subordination is a **creation ordinance** in its *content*, and the Fall changes only its *mode of enforcement* — from voluntary harmony to "positive statute" — **not** the content itself, and explicitly not a punishment imputed to all women (contrast Dabney directly). **This is a real, substantive disagreement between the two leading Southern Presbyterians on the same question, and should not be flattened into "the Southern Presbyterian view."**
 
+**The typology's directional claim, stated in Palmer's own words** (CONFIRMED 2026-08-19 via direct
+Internet Archive full-text search, `familyinitscivil00palm`, p. 257 in that scan — the project
+owner's physical edition paginates this ~p. 117): "We press this fact, that St. Paul is not here
+explaining union with Christ by marriage, for which a simple analogy would suffice; but he is
+illustrating marriage by union with Christ, which seems to constitute the former a symbol of the
+latter... the hieroglyph over the very portals of marriage, not to be deciphered until the key was
+furnished in the work of redemption." This is Palmer's clearest single-sentence statement of the
+point already noted below (Palmer alone in this strand develops the Eph 5 typology as its own
+doctrinal locus) — the direction runs from Christ to marriage, not marriage to Christ, exactly
+paralleling Zanchi's *De Spirituali Connubio* (Strand 1) a good three centuries earlier and,
+per this project's cross-reading of Jay Adams's *Christian Living in the Home* ch. 1 (Strand 6),
+the same directional claim compressed into nouthetic-counseling register ("centered around the
+person of Christ," citing Col. 2:3). Worth citing as a three-strand convergence point.
+
 Palmer is also emphatic, more than Dabney, that submission's *voluntariness* is theologically load-bearing: "It is an act of unconstrained choice. The word 'submission' technically expresses this... Subjection... is less felicitous; since it may convey... the idea of compulsion from without." On the husband's side, he grounds headship in Gen 2:24 and stresses the apostolic emphasis on **love** (Col 3:19) over bare power: "the great duty enforced upon him is Love." He does not engage 1 Cor 11 or 1 Pet 3 anywhere in the book — a genuine gap relative to Dabney.
 
 **Follow-up pass, 2026-08-08 — Palmer's wife's-side content is far more substantial than the first pass captured; this is the single richest positive-content find in this strand.** A full-text grep confirms Proverbs 31 is never invoked anywhere in the book (one incidental "Proverbs" hit, unrelated) — Palmer's positive case is built entirely from Gen 2, Eph 5, and Col 3, not from the wisdom literature. But within that frame:
