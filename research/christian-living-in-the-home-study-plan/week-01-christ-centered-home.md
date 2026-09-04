@@ -220,6 +220,54 @@ Ch. 1 ("The Creation of Eve and Her Marriage to Adam")
 
 ### Calvin, *Commentary on Ephesians* — 5:31-32
 
+**CONFIRMED, direct primary-text quotation** (fetched and verified against the raw CCEL HTML
+directly, not just an AI-summarized pass — `ccel.org/ccel/calvin/calcom41.iv.vi.vi.html`, the
+Calvin Translation Society/Pringle rendering used throughout this project's Calvin citations).
+Modern-English translation, not old-spelling — flag per house rule 7 if a period English edition
+is ever sourced instead.
+
+**On v.31** ("For this cause shall a man leave..."): Calvin reads it as "an exact quotation from
+the writings of Moses" (Gen. 2:24) and glosses it primarily as a statement about the *union's
+closeness*, not its typology: "As Eve was formed out of the substance of her husband, and thus was
+a part of himself; so, if we are the true members of Christ, we share his substance, and by this
+intercourse unite into one body." He is explicit about which text is doing the illustrating:
+"Two subjects are exhibited together; for the spiritual union between Christ and his church is so
+treated as to illustrate the common law of marriage, to which the quotation from Moses relates."
+**This is directionally the same claim Palmer and Zanchi make** (Christ's union explains marriage,
+not the reverse) — a fourth, independent voice converging on that point, worth adding to the
+directionality bullet in the Synthesis section below.
+
+**On v.32** ("This is a great mystery..."), quoted verbatim in full: "He concludes by expressing
+his astonishment at the spiritual union between Christ and the church. This is a great mystery; by
+which he means, that no language can explain fully what it implies. It is to no purpose that men
+fret themselves to comprehend, by the judgment of the flesh, the manner and character of this
+union; for here the infinite power of the Divine Spirit is exerted. Those who refuse to admit
+anything on this subject beyond what their own capacity can reach, act an exceedingly foolish
+part... For my own part, I am overwhelmed by the depth of this mystery, and am not ashamed to join
+Paul in acknowledging at once my ignorance and my admiration." He closes the verse polemically,
+against Rome's use of "mystery" (rendered *sacramentum* in the Vulgate) to make matrimony one of
+seven sacraments: "Because the Vulgate has adopted the word Sacrament as a translation of the word
+Mystery, which the apostle uses... Christ has instituted no more than two [sacraments]."
+
+**Does Calvin make a shadow/substance or progressive-disclosure move here? No — checked directly
+and the answer is a clean negative.** A full-text search of Calvin's entire comment on 5:22-33
+for timing/disclosure language ("hidden," "shadow," "foreshadow," "before Christ," "not yet," "in
+old time," "dispensation," and similar) returns **no hits**. Calvin's "great mystery" is doing
+different work than Paul's own dominant usage surveyed by the exegete lane at Rom 16:25/Eph
+3:4-9/Col 1:26-27 (`research/series-I-foundations-notes/exegete-general-revelation-vs-mystery.md`,
+§2) — for Calvin, μυστήριον here marks the union's *intrinsic, permanent incomprehensibility* (a
+statement about the *nature* of the thing, "beyond our own comprehension," not a statement about
+*when in redemptive history* it became knowable). He treats Gen 2:24/Eph 5:32 as, in effect, an
+illustrative analogy of arresting depth — exactly the exegete lane's "reading (B)" (the weaker,
+minority reading), not "reading (A)" (the strong/typological, hidden-then-disclosed reading Zanchi
+and Palmer independently take, and which this project's own working hypothesis prefers). **This
+matters directly for the project's central Series I claim**: the single most prominent Reformed
+voice in Strand 1 does not use this text to make the progressive-disclosure argument at all — he
+uses it to make a "this runs too deep for the flesh to grasp" argument, and takes a swipe at Rome's
+sacramental reading along the way. Flag this seam explicitly in the drafted article rather than
+assuming Calvin agrees with Zanchi/Palmer on *how* the mystery language works, even though (per the
+v.31 note above) he agrees with them on *directionality*.
+
 ## Synthesis
 
 ### How the outside reading informs what we have in Adams
@@ -243,6 +291,16 @@ states but doesn't unpack.
   doesn't explain Christ: Christ explains, and supplies, what the home needs. Three genres, three
   eras, one convergent claim — worth naming explicitly as a finding, per this project's own method
   (CLAUDE.md: convergence across strands is a result to notice, not an assumption to import).
+  **Calvin's own Ephesians commentary, checked directly this pass (see the Calvin reading notes
+  above), makes it a fourth independent voice on directionality specifically**: "the spiritual
+  union between Christ and his church is so treated as to illustrate the common law of marriage,
+  to which the quotation from Moses relates" — Christ's union illustrating marriage, not vice
+  versa. **But Calvin does not converge with Zanchi/Palmer on the separate question of *how* "great
+  mystery" functions** — no shadow/substance or hidden-then-disclosed move is present in his
+  comment on 5:32; for Calvin the phrase marks the union's sheer incomprehensibility, not a timing
+  claim about OT vs. NT access. Keep these two questions (directionality vs. timing/disclosure)
+  distinct — three/four-strand convergence on the first should not be overstated into convergence
+  on the second, which Calvin does not share.
 - **Zanchi gives Adams's thinnest point real content.** Adams's mark 3 — "the means of grace exist
   only for Christian homes" — is asserted, not explained. Zanchi's cross/rib typology (Eve built
   from Adam's rib as the Church built from Christ's own pierced side, "water" and "blood" read as
