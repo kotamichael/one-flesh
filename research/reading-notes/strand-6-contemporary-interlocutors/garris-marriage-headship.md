@@ -53,6 +53,45 @@ WELL-ATTESTED (upgraded from the prior pass): the claim that Garris's book is co
 
 The same outline also confirms the wife's-side content in the book is thin in the way CLAUDE.md's house rule flags generally: her "positive" material (ch. 5, §§4-5) consists of being "fit" for man, bearing children, and household management (Prov 31:14-24, contrasted via *oikodespoteō* vs. the husband's *proistēmi*) — real but narrower than, e.g., Duncan's "she opens her mouth in wisdom... offers suggestions and advice and counsel, and even correction to her husband" (see the Knight-Duncan-Phillips note). Worth flagging in any draft that engages Garris on the wife's role: don't let this book stand in for the fuller positive material this project owes the wife's side; supplement from elsewhere in the contemporary bibliography.
 
+## Follow-up pass, 2026-09-06 — does Garris address second-wave feminism/women's-lib the way Adams does?
+
+Prompted by a parallel check against Jay Adams's *Christian Living in the Home* (1972), ch. 4, which
+makes a specific, dateable move against the women's-liberation movement: correctly inhabiting the
+Gen. 2:18 helper role *liberates* a woman, while women's-lib, by subverting it, *enslaves* her
+instead — an inversion of the movement's own liberation language. Checked whether Garris makes the
+same move anywhere in his actual published work, not just "critiques feminism generally."
+
+WELL-ATTESTED: Garris does name and periodize second-wave feminism specifically, in *Masculine
+Christianity* (2020). The book's own text (confirmed via a direct online preview, not just a
+reviewer's paraphrase) periodizes the women's movement into three waves — "the first wave of the
+1830s to 1920; the second wave of the 1960s to the 1990s; and the third wave of the 1990s to the
+present" — and characterizes the second wave: "If first-wave feminism can be described as women's
+desire to be independent from men, second-wave feminism can be described as women's desire to act
+like men" (p. 17, per reforminganthropologycom.wordpress.com's 2022 review, which cites the page
+number directly; independently corroborated in shape, though not in exact wording, by the book's
+own preview text). Not independently checked against a physical/purchased copy — treat the exact
+p. 17 wording as WELL-ATTESTED, not CONFIRMED, until someone does.
+
+UNVERIFIED, and worth stating as a real negative finding rather than forcing a match: no source
+checked in this pass (the book's preview and two independent reviews/summaries; the
+knowingscripture.com Edgington review; "The Leaven of Egalitarianism," American Reformer 2023; both
+*Honor Thy Fathers* reviews consulted — Themelios, TruthScript) shows Garris making Adams's specific
+liberation/enslavement inversion. Garris's critique of feminism, across everything located, runs
+definitional (naming/dating the waves and what each "wants") and consequentialist (career-focus
+correlating with falling birth rates and women moving from motherhood — his critique of Pearcey in
+"The Leaven of Egalitarianism"), not the rhetorical move of claiming the helper role is itself what
+truly liberates a woman against feminism's own claim to speak for her freedom. This is an absence
+in a real search pass, not proof the move appears nowhere in his full corpus — the book has still
+not been read cover-to-cover by this project, and his knowingscripture.com archive is large.
+
+**Bearing on the project**: this is a genuine, useful data point — Garris is currently the
+best-attested contemporary voice in this project's bibliography for naming second-wave feminism
+specifically by name and date, ahead of Mathis, Mize, Miller, Knight, Duncan, Phillips, Wiley,
+Wilson, and DeYoung, none of whose existing research files document comparably specific
+feminism-by-name engagement. But he should not be cited as making the same argument Adams makes —
+that specific inversion currently stands as unique to Adams in this project's contemporary
+bibliography. Fed into `research/christian-living-in-the-home-study-plan/week-04-bible-basics.md`.
+
 ## Confidence / verification status
 
-CONFIRMED for the direct quotes above (multiple independent sources: knowingscripture.com articles, American Reformer). WELL-ATTESTED (strengthened 2026-08-08) for the Eph 5 exegesis-gap claim — corroborated by an independent chapter-outline document from the same reviewer, not just the review's own assertion, though the book itself remains unread by this project.
+CONFIRMED for the direct quotes above (multiple independent sources: knowingscripture.com articles, American Reformer). WELL-ATTESTED (strengthened 2026-08-08) for the Eph 5 exegesis-gap claim — corroborated by an independent chapter-outline document from the same reviewer, not just the review's own assertion, though the book itself remains unread by this project. WELL-ATTESTED (added 2026-09-06) that Garris names and periodizes second-wave feminism specifically in *Masculine Christianity* p. 17; UNVERIFIED (absence, not proof of absence) that he makes Adams's specific liberation/enslavement inversion anywhere located so far.
